@@ -1,6 +1,7 @@
 ## 
 
 Desenvolvedor Back-End Java  
+Tecnologia da Informação  
 Pós-graduação em Engenharia de Software (em conclusão)
 
 ---
