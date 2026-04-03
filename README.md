@@ -1,6 +1,3 @@
-
-# Marins
-
 Desenvolvedor Back-End Java  
 Pós-graduação em Engenharia de Software (em conclusão)  
 Foco em arquitetura de software, microsserviços e boas práticas  
@@ -18,31 +15,49 @@ Foco em construção de APIs utilizando **Java e Spring Boot**, aplicando concei
 Tenho experiência com **containerização e deploy em ambientes cloud**, utilizando Docker, Kubernetes, AWS e Azure.
 
 
-## Stack Tecnológica
+## 🛠️ Stack Tecnológica
 
-### Back-end
-- Java (Spring Boot, Spring MVC, Spring Data JPA)
-- Hibernate / JPA
-- APIs RESTful
-- Spring Security
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
 
-### Banco de Dados
-- PostgreSQL
-- MySQL
-- Modelagem relacional
+### 🚀 Back-end
+- Java (Spring Boot, Spring MVC, Spring Data JPA)  
+- Hibernate / JPA  
+- APIs RESTful  
+- Spring Security  
 
-### Cloud & DevOps
-- Docker / Docker Compose
-- Kubernetes
-- AWS (EC2, S3, RDS)
-- Azure
+    </td>
+    <td width="50%" valign="top">
 
-### Ferramentas
-- Git / GitHub
-- Maven / Gradle
-- Postman
-- Swagger (OpenAPI)
+### 🗄️ Banco de Dados
+- PostgreSQL  
+- MySQL  
+- Modelagem relacional  
 
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### ☁️ Cloud & DevOps
+- Docker / Docker Compose  
+- Kubernetes  
+- AWS (EC2, S3, RDS)  
+- Azure  
+
+    </td>
+    <td width="50%" valign="top">
+
+### 🔧 Ferramentas
+- Git / GitHub  
+- Maven / Gradle  
+- Postman  
+- Swagger (OpenAPI)  
+
+    </td>
+  </tr>
+</table>
 ---
 
 ## Projetos
