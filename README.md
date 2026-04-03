@@ -2,17 +2,6 @@ Desenvolvedor Back-End Java
 Pós-graduação em Engenharia de Software (em conclusão)
 Foco em arquitetura de software, microsserviços e boas práticas
 
-
-Foco em construção de APIs utilizando **Java e Spring Boot**, aplicando conceitos como:
-
-- Clean Architecture
-- SOLID
-- TDD (Test Driven Development)
-- Microsserviços
-
-Tenho experiência com **containerização e deploy em ambientes cloud**, utilizando Docker, Kubernetes, AWS e Azure.
-
-
 <table align="center">
   <tr>
     <td width="50%" valign="top">
@@ -54,6 +43,18 @@ Tenho experiência com **containerização e deploy em ambientes cloud**, utiliz
     </td>
   </tr>
 </table>
+
+
+Foco em construção de APIs utilizando **Java e Spring Boot**, aplicando conceitos como:
+
+- Clean Architecture
+- SOLID
+- TDD (Test Driven Development)
+- Microsserviços
+
+Tenho experiência com **containerização e deploy em ambientes cloud**, utilizando Docker, Kubernetes, AWS e Azure.
+
+
 
 ## Projetos
 
