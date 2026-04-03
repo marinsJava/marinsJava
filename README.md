@@ -1,7 +1,5 @@
-```
-Marins
-```
 
+# Marins
 
 Desenvolvedor Back-End Java  
 Pós-graduação em Engenharia de Software (em conclusão)  
@@ -58,32 +56,3 @@ Sistema de e-commerce com arquitetura em camadas.
 - Docker + Kubernetes
 
 🔗 Link: https://github.com/gxnm/dscommerce
-
----
-
-### 🔹 (Adicione mais projetos aqui)
-Exemplo:
-- Sistema de autenticação
-- API com JWT
-- Projeto com testes (JUnit)
-
----
-
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gxnm&show_icons=true&theme=tokyonight)
-
----
-
-## 📫 Contato
-
-- 📧 Email: jmarinsti@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/jmarinsti
-
----
-
-## ⚡ Diferenciais
-
-- Experiência com Docker e Kubernetes
-- Conhecimento em arquitetura de software
-- Foco em código limpo e boas práticas
