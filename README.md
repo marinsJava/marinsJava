@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou João Vítor Marins Corrêa
+# Marins
 
 💻 Desenvolvedor Back-End Java  
 🎓 Pós-graduação em Engenharia de Software (em conclusão)  
@@ -6,9 +6,9 @@
 
 ---
 
-## 🧠 Sobre mim
+## Objetivo
 
-Sou desenvolvedor com foco em construção de APIs robustas utilizando **Java e Spring Boot**, aplicando conceitos como:
+Foco em construção de APIs utilizando **Java e Spring Boot**, aplicando conceitos como:
 
 - Clean Architecture
 - SOLID
@@ -19,26 +19,26 @@ Tenho experiência com **containerização e deploy em ambientes cloud**, utiliz
 
 ---
 
-## 🛠️ Stack Tecnológica
+## Stack Tecnológica
 
-### 🚀 Back-end
+### Back-end
 - Java (Spring Boot, Spring MVC, Spring Data JPA)
 - Hibernate / JPA
 - APIs RESTful
 - Spring Security
 
-### 🗄️ Banco de Dados
+### Banco de Dados
 - PostgreSQL
 - MySQL
 - Modelagem relacional
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 - Docker / Docker Compose
 - Kubernetes
 - AWS (EC2, S3, RDS)
 - Azure
 
-### 🔧 Ferramentas
+### Ferramentas
 - Git / GitHub
 - Maven / Gradle
 - Postman
@@ -46,7 +46,7 @@ Tenho experiência com **containerização e deploy em ambientes cloud**, utiliz
 
 ---
 
-## 📂 Projetos em destaque
+## Projetos
 
 ### 🔹 DSCommerce API
 Sistema de e-commerce com arquitetura em camadas.
