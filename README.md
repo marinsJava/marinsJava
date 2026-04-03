@@ -1,6 +1,6 @@
-Desenvolvedor Back-End Java 
-Pós-graduação em Engenharia de Software (em conclusão)
-Foco em arquitetura de software, microsserviços e boas práticas
+- Desenvolvedor Back-End Java 
+- Pós-graduação em Engenharia de Software (em conclusão)
+- Foco em arquitetura de software, microsserviços e boas práticas
 
 <table align="center">
   <tr>
