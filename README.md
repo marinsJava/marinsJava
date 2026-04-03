@@ -1,4 +1,4 @@
-## João Vítor Marins Corrêa
+## 
 
 Desenvolvedor Back-End Java  
 Pós-graduação em Engenharia de Software (em conclusão)
@@ -51,19 +51,6 @@ Pós-graduação em Engenharia de Software (em conclusão)
 
 ---
 
-## Sobre
-
-Foco na construção de APIs com **Java e Spring Boot**, aplicando:
-
-- Clean Architecture  
-- SOLID  
-- TDD  
-- Microsserviços  
-
-Experiência com containerização e deploy em cloud utilizando Docker, Kubernetes, AWS e Azure.
-
----
-
 ## Projetos
 
 ### DSCommerce API
@@ -76,9 +63,3 @@ Sistema de e-commerce com arquitetura em camadas.
 
 https://github.com/gxnm/dscommerce
 
----
-
-## Contato
-
-- Email: jmarinsti@gmail.com  
-- LinkedIn: https://linkedin.com/in/jmarinsti  
