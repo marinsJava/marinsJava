@@ -1,6 +1,6 @@
-`Desenvolvedor Back-End Java `
-`Pós-graduação em Engenharia de Software (em conclusão)`
-`Foco em arquitetura de software, microsserviços e boas práticas`  
+Desenvolvedor Back-End Java 
+Pós-graduação em Engenharia de Software (em conclusão)
+Foco em arquitetura de software, microsserviços e boas práticas
 
 
 ## Objetivo
@@ -15,13 +15,13 @@ Foco em construção de APIs utilizando **Java e Spring Boot**, aplicando concei
 Tenho experiência com **containerização e deploy em ambientes cloud**, utilizando Docker, Kubernetes, AWS e Azure.
 
 
-## 🛠️ Stack Tecnológica
+## Stack Tecnológica
 
 <table align="center">
   <tr>
     <td width="50%" valign="top">
 
-### 🚀 Back-end
+### Back-end
 - Java (Spring Boot, Spring MVC, Spring Data JPA)  
 - Hibernate / JPA  
 - APIs RESTful  
@@ -30,7 +30,7 @@ Tenho experiência com **containerização e deploy em ambientes cloud**, utiliz
     </td>
     <td width="50%" valign="top">
 
-### 🗄️ Banco de Dados
+### Banco de Dados
 - PostgreSQL  
 - MySQL  
 - Modelagem relacional  
@@ -40,7 +40,7 @@ Tenho experiência com **containerização e deploy em ambientes cloud**, utiliz
   <tr>
     <td width="50%" valign="top">
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 - Docker / Docker Compose  
 - Kubernetes  
 - AWS (EC2, S3, RDS)  
@@ -49,7 +49,7 @@ Tenho experiência com **containerização e deploy em ambientes cloud**, utiliz
     </td>
     <td width="50%" valign="top">
 
-### 🔧 Ferramentas
+### Ferramentas
 - Git / GitHub  
 - Maven / Gradle  
 - Postman  
@@ -58,7 +58,6 @@ Tenho experiência com **containerização e deploy em ambientes cloud**, utiliz
     </td>
   </tr>
 </table>
----
 
 ## Projetos
 
