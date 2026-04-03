@@ -3,8 +3,6 @@ Pós-graduação em Engenharia de Software (em conclusão)
 Foco em arquitetura de software, microsserviços e boas práticas
 
 
-## Objetivo
-
 Foco em construção de APIs utilizando **Java e Spring Boot**, aplicando conceitos como:
 
 - Clean Architecture
@@ -14,8 +12,6 @@ Foco em construção de APIs utilizando **Java e Spring Boot**, aplicando concei
 
 Tenho experiência com **containerização e deploy em ambientes cloud**, utilizando Docker, Kubernetes, AWS e Azure.
 
-
-## Stack Tecnológica
 
 <table align="center">
   <tr>
