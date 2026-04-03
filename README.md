@@ -1,19 +1,24 @@
-- Desenvolvedor Back-End Java 
-- Pós-graduação em Engenharia de Software (em conclusão)
-- Foco em arquitetura de software, microsserviços e boas práticas
+## João Vítor Marins Corrêa
 
-<table align="center">
+Desenvolvedor Back-End Java  
+Pós-graduação em Engenharia de Software (em conclusão)
+
+---
+
+## Stack Tecnológica
+
+<table>
   <tr>
-    <td width="50%" valign="top">
+    <td valign="top">
 
 ### Back-end
 - Java (Spring Boot, Spring MVC, Spring Data JPA)  
 - Hibernate / JPA  
-- APIs RESTful  
+- APIs REST  
 - Spring Security  
 
     </td>
-    <td width="50%" valign="top">
+    <td valign="top">
 
 ### Banco de Dados
 - PostgreSQL  
@@ -23,7 +28,7 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td valign="top">
 
 ### Cloud & DevOps
 - Docker / Docker Compose  
@@ -32,7 +37,7 @@
 - Azure  
 
     </td>
-    <td width="50%" valign="top">
+    <td valign="top">
 
 ### Ferramentas
 - Git / GitHub  
@@ -44,26 +49,36 @@
   </tr>
 </table>
 
+---
 
-Foco em construção de APIs utilizando **Java e Spring Boot**, aplicando conceitos como:
+## Sobre
 
-- Clean Architecture
-- SOLID
-- TDD (Test Driven Development)
-- Microsserviços
+Foco na construção de APIs com **Java e Spring Boot**, aplicando:
 
-Tenho experiência com **containerização e deploy em ambientes cloud**, utilizando Docker, Kubernetes, AWS e Azure.
+- Clean Architecture  
+- SOLID  
+- TDD  
+- Microsserviços  
 
+Experiência com containerização e deploy em cloud utilizando Docker, Kubernetes, AWS e Azure.
 
+---
 
 ## Projetos
 
-### 🔹 DSCommerce API
+### DSCommerce API
 Sistema de e-commerce com arquitetura em camadas.
 
-- Java + Spring Boot
-- JPA / Hibernate
-- API REST
-- Docker + Kubernetes
+- API REST com Spring Boot  
+- Persistência com JPA / Hibernate  
+- Containerização com Docker  
+- Deploy com Kubernetes  
 
-🔗 Link: https://github.com/gxnm/dscommerce
+https://github.com/gxnm/dscommerce
+
+---
+
+## Contato
+
+- Email: jmarinsti@gmail.com  
+- LinkedIn: https://linkedin.com/in/jmarinsti  
