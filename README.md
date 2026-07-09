@@ -40,5 +40,5 @@ Pós-graduando em **Engenharia de Software com Java** (Infnet/MIT) e **Monitor A
 - **Graduação — Tecnologia da Informação** · 2023–2025
 - **Engenharia de Construções Militares** · EsSA · 2020–2021
 
-**Idiomas:** Português (nativo) · Inglês avançado (C1) · Espanhol básico
+**Idiomas:** Português (nativo) · Inglês avançado (B2) · Espanhol básico
 
