@@ -45,7 +45,7 @@ Pós-graduando em **Engenharia de Software com Java** (Infnet/MIT) e **Monitor A
 
 <div align="center">
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=marinsJava&show_icons=true&theme=default&hide_border=true&hide_title=true&hide_rank=true)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=marinsJava&layout=compact&hide_border=true&hide_title=true)
+![Estatísticas](https://SUA-INSTANCIA.vercel.app/api?username=marinsJava&show_icons=true&hide_border=true&hide_rank=true)
+![Linguagens](https://SUA-INSTANCIA.vercel.app/api/top-langs/?username=marinsJava&layout=compact&hide_border=true)
 
 </div>
