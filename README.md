@@ -41,11 +41,3 @@ Pós-graduando em **Engenharia de Software com Java** (Infnet/MIT) e **Monitor A
 
 **Idiomas:** Português (nativo) · Inglês avançado (C1) · Espanhol básico
 
----
-
-<div align="center">
-
-![Estatísticas](https://SUA-INSTANCIA.vercel.app/api?username=marinsJava&show_icons=true&hide_border=true&hide_rank=true)
-![Linguagens](https://SUA-INSTANCIA.vercel.app/api/top-langs/?username=marinsJava&layout=compact&hide_border=true)
-
-</div>
