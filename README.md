@@ -18,6 +18,7 @@ Pós-graduando em **Engenharia de Software com Java** (Infnet/MIT) e **Monitor A
 | **[MedLembrete API](https://github.com/marinsJava/MedLembrete-api)** — gestão de tratamentos com lembretes no Google Calendar | **6 padrões GoF aplicados** (Strategy, State, Factory, Builder, Observer, Adapter) · DDD · arquitetura orientada a eventos · máquina de estados | Java 21 · Spring Boot 3 · JPA |
 | **[FitMarmita API](https://github.com/marinsJava/FitMarmita-api)** — e-commerce de marmitas fitness | **Autenticação JWT stateless** · Spring Security 6 · migrations com Flyway · Swagger/OpenAPI · package-by-feature | Java 21 · Spring Boot 3 · PostgreSQL · Docker |
 | **[DSCommerce](https://github.com/marinsJava/dscommerce)** — sistema de e-commerce | API REST em camadas · persistência JPA/Hibernate · conteinerização e deploy | Java · Spring Boot · Docker · Kubernetes |
+| **[Azure Cloud Admin](https://github.com/marinsJava/MicrosoftAzure-admin-infra)** — administração de infraestrutura em nuvem | **Labs oficiais AZ-104/AZ-500** · Entra ID/RBAC · Azure Policy · ARM/Bicep · Sentinel | Azure · PowerShell · CLI · KQL |
 
 ---
 
